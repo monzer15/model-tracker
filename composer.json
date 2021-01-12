@@ -1,0 +1,14 @@
+{
+    "name": "monzer/model-tracker",
+    "description": "an easy way to track (who) created (what).",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "monzer",
+            "email": "59767837+monzer15@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^6.7"
+    }
+}
